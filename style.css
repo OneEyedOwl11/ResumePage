@@ -497,12 +497,14 @@ p.edu-summury {
 
 .portfolio-bg {
 	height: 300px;
+	object-fit: cover;
 	background-size: cover;
 	background-position: center;
 	background-color: #ddd;
 	transition: 0.3s ease-in-out;
 	position: relative;
 	z-index: 3;
+	
 }
 
 .portfolio-items {
